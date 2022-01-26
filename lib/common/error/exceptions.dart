@@ -1,0 +1,4 @@
+
+class UserSaveException implements Exception {
+
+}
